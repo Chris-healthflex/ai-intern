@@ -1,0 +1,11 @@
+patient_id,urgency_level,red_flags,confidence,recommendation,web_search_used,timestamp
+case_058,see_doctor_soon,"recent trauma, no pain reported which could indicate nerve damage",0.8,make an appointment with your doctor to assess the knee for potential internal injuries,False,2026-06-17 18:16:12
+case_001,emergency,"crushing chest pain, radiation to left arm, sweating, nausea",0.99,Call emergency services immediately or go to the emergency room,False,2026-06-17 18:16:48
+case_002,emergency,"sudden weakness on one side of the body, difficulty speaking, facial drooping",0.99,"Call emergency services immediately, as these symptoms are indicative of a potential stroke",False,2026-06-17 18:17:31
+case_004,see_doctor_soon,"prolonged fever, severe weakness, persistent body pain",0.92,schedule an appointment with your primary care physician within the next 24-48 hours to rule out any underlying infections or conditions,False,2026-06-17 18:17:52
+case_005,see_doctor_soon,"increasing pain, prolonged duration",0.95,schedule an appointment with a primary care physician or neurologist to evaluate the cause of headaches,False,2026-06-17 18:18:09
+case_007,self_care,,0.95,"rest, hydration, and over-the-counter pain relievers for symptom management",False,2026-06-17 18:18:25
+case_010,see_doctor_soon,"severe swelling, pain when walking",0.9,"Apply ice, elevate ankle, take over-the-counter pain relievers, and schedule an appointment with a doctor within the next 24-48 hours to rule out a fracture or other serious injury",False,2026-06-17 18:18:58
+case_008,self_care,,0.95,"rest, stay hydrated, and avoid spicy food for a while, consider over-the-counter antacids",False,2026-06-17 18:19:31
+case_006,see_doctor_soon,"sudden onset, associated with other neurological symptoms, history of neurodegenerative disease",0.85,schedule an appointment with a neurologist to rule out underlying conditions such as Parkinson's disease or essential tremor,False,2026-06-17 18:24:50
+case_006,self_care,,0.95,"no action needed, continue with daily activities",False,2026-06-17 18:27:48
