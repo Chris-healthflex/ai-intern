@@ -117,6 +117,7 @@ Result stored in CSV
  "patient_id":"case_001",
  "message":"Crushing chest pain radiating to left arm with sweating"
 }
+```
 
 # Production Improvements
 
@@ -135,3 +136,18 @@ For a real healthcare production system, I would improve it with:
 - **Monitoring:** Track model accuracy, failures, latency, and feedback using tools like MLflow or LangSmith.
 
 - **Frontend Dashboard:** Add patient and doctor interfaces for symptom submission, case monitoring, and real-world usage.
+- **Better Confidence Scoring:** Improve confidence calculation using model evaluation and rule-based checks instead of relying only on LLM-generated scores.
+
+- **Monitoring:** Track model accuracy, failures, latency, and feedback using tools like MLflow or LangSmith.
+
+- **Frontend Dashboard:** Add patient and doctor interfaces for symptom submission, case monitoring, and real-world usage.
+  
+# Author
+
+**Roshni Behera**
+
+GitHub:
+
+https://github.com/roshnib1
+
+Linkedin: https://www.linkedin.com/in/roshnibehera
